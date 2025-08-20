@@ -1,0 +1,8 @@
+Tasks:
+
+    Create 5 Test Cases for : https://goitstudentsworks.github.io/js_70_melvinsz/
+    Create 5 Bug Reports for : https://goitstudentsworks.github.io/js_70_melvinsz/
+    Theoretical Questions on Software Testing: a) What is a test plan? Why is it important? b) What is exploratory testing? When is it useful? c) What is the purpose of a test environment?
+    Logic Assignment - Imagine you are testing a web application for an online store. When a new user registers, the system displays a message confirming successful registration and sends an email to the email address provided during registration. You have noticed that sometimes users who have successfully registered do not receive the confirmation email. How would you investigate this issue?
+
+Write a plan to investigate the email problem, identify the cause of the malfunction, and make appropriate recommendations to improve the application's performance. Include steps from hypothesis formulation to testing the results in your plan.

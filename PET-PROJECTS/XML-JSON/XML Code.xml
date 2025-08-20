@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <personas>
+        <persona>
+            <id>2145</id>
+            <name>Jose Luis Martinez</name>
+            <adress>
+                <city>Madrid</city>
+                <streat>Av. de Monforte de Lemos</streat>
+                <house_number>64</house_number>
+                <apartment_number>05</apartment_number>
+            </adress>
+            <contacts>
+                <phone_number>+34214521452</phone_number>
+                <email>JoseLuis2145@gmail.com</email>
+                <telegram_name>JoseMaster2145</telegram_name>
+            </contacts>
+        </persona>
+        <persona>
+            <id>3451</id>
+            <name>Quentin Jerome Tarantino</name>
+            <adress>
+                <city>Los Angeles</city>
+                <streat>Universal Studios Hollywood</streat>
+                <house_number>26</house_number>
+                <apartment_number>21</apartment_number>
+            </adress>
+            <contacts>
+                <phone_number>+18186222222</phone_number>
+                <email>QuentinTarantino3451@gmail.com</email>
+                <telegram_name>QuentinTarantino3451</telegram_name>
+            </contacts>
+        </persona>
+        <persona>
+            <id>5174</id>
+            <name>Miguel de Cervantes</name>
+            <adress>
+                <city>Madrid</city>
+                <streat>C. del Arroyo Belincoso</streat>
+                <house_number>12</house_number>
+                <apartment_number>02</apartment_number>
+            </adress>
+            <contacts>
+                <phone_number>+345174517451</phone_number>
+                <email>MigueldeCervantes5174@gmail.com</email>
+                <telegram_name>MigueldeCervantes1547</telegram_name>
+            </contacts>
+        </persona>
+        <persona>
+            <id>4135</id>
+            <name>Lesya Ukrainka</name>
+            <adress>
+                <city>Novohrad-Volynskyi</city>
+                <streat>Lesya Ukrainka Square</streat>
+                <house_number>7</house_number>
+                <apartment_number>07</apartment_number>
+            </adress>
+            <contacts>
+                <phone_number>+380674135413</phone_number>
+                <email>LesyaUkrainka4135@gmail.com</email>
+                <telegram_name>LesyaUkrainka4135</telegram_name>
+            </contacts>
+        </persona>
+    </personas>
+</root>

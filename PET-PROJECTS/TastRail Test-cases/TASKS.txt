@@ -1,0 +1,5 @@
+Завдання (Task)
+
+1. Ознайомитись з документацією до ПЗ із розділу ”Компоненти та функціонал” https://textbook.edu.goit.global/qa-test-textbook/uk/docs/lesson-02/header
+
+2. За специфікацією написати 10 Test Cases: 5 Test Cases оформити в шаблоні з пункту 2, і 5 Test Cases оформити в TestRail.

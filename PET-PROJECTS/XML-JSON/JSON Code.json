@@ -1,0 +1,72 @@
+{
+    "root": {
+        "personas": {
+            "Persona":  [
+                {
+                    "id": 2145,
+                    "name": "Jose Luis Martinez",
+                    "adress": {
+                        "city": "Madrid",
+                        "streat": "Av. de Monforte de Lemos",
+                        "house_number": 64,
+                        "apartment_number": "05"
+                            },
+                    "contacts": {
+                        "phone_number": "+34214521452",
+                        "email": "JoseLuis2145@gmail.com",
+                        "telegram_name": "JoseMaster2145"
+                            }
+                },
+
+                {
+                    "id": 3451,
+                    "name": "Quentin Jerome Tarantino",
+                    "adress": {
+                        "city": "Los Angeles",
+                        "streat": "Universal Studios Hollywood",
+                        "house_number": 26,
+                        "apartment_number": 21
+                            },
+                    "contacts": {
+                        "phone_number": "+18186222222",
+                        "email": "QuentinTarantino3451@gmail.com",
+                        "telegram_name": "QuentinTarantino3451"
+                            }
+                },
+
+                {
+                    "id": 5174,
+                    "name": "Miguel de Cervantes",
+                    "adress": {
+                        "city": "Madrid",
+                        "streat": "C. del Arroyo Belincoso",
+                        "house_number": 12,
+                        "apartment_number": "02"
+                            },
+                    "contacts": {
+                        "phone_number": "+345174517451",
+                        "email": "JMigueldeCervantes5174@gmail.com",
+                        "telegram_name": "MigueldeCervantes1547"
+                            }
+                },
+
+                {
+                    "id": 4135,
+                    "name": "Lesya Ukrainka",
+                    "adress": {
+                        "city": "Novohrad-Volynskyi",
+                        "streat": "Lesya Ukrainka Square",
+                        "house_number": 7,
+                        "apartment_number": "07"
+                            },
+                    "contacts": {
+                        "phone_number": "+380674135413",
+                        "email": "LesyaUkrainka4135@gmail.com",
+                        "telegram_name": "LesyaUkrainka4135"
+                            }
+                }
+                        ]
+            }
+        }
+}
+
